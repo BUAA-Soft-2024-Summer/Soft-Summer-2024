@@ -69,7 +69,7 @@ Swing (Java)：跨平台 UI 框架，有 Java 基础的同学可以尝试。
 
 > 不推荐编写控制台游戏。🥺
 
-[EasyX](https://easyx.cn/) (C++)：简单，易上手，是 Windows GDI 的封装。[EasyX 指引](https://github.com/BUAA-Soft-2024-Summer/Soft-Summer-2024/blob/main/C%2B%2B%20EasyX/README.md)
+[EasyX](https://easyx.cn/) (C++)：简单，易上手，是 Windows GDI 的封装。[EasyX 指引](https://github.com/BUAA-Soft-2024-Summer/Soft-Summer-2024/blob/main/C%2B%2B%20EasyX/README.md)，[2048 Demo](https://github.com/BUAA-Soft-2024-Summer/2048)
 
 [pygame](https://www.pygame.org/) (Python)：简单易上手的 Python 游戏开发模块。
 
