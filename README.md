@@ -34,6 +34,7 @@
 | 聂睿   | [Abyss](https://github.com/Abyss7893)           | Java 游戏开发；Web 后端开发                                  |
 | 朱玉林 | [Ferpakenameyea](https://github.com/Ferpakenameyea) | Unity 游戏开发                                             |
 | 陈超 | [ccLoopy](https://github.com/cc1121) | web前后端开发                                             |
+| 陈博胆 | [guolala](https://github.com/guolalala) | Python人工智能                                             |
 
 ---
 
