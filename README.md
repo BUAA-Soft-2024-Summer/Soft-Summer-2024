@@ -32,6 +32,7 @@
 | :----- | :---------------------------------------------- | ------------------------------------------------------------ |
 | 柳政尧 | [Lord Turmoil](https://github.com/Lord-Turmoil) | C++ 游戏开发（EasyX）；Windows 桌面应用（WPF）；各种前后端框架 |
 | 聂睿   | [Abyss](https://github.com/Abyss7893)           | Java 游戏开发；Web 后端开发                                  |
+| 朱玉林 | [Ferpakenameyea](https://github.com/Ferpakenameyea) | Unity 游戏开发                                             |
 
 ---
 
